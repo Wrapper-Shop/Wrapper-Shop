@@ -11,7 +11,4 @@ It's designed to be an easy method of getting Wrapper or Wrapper mods.
 sounds like porn games
 
 ## Why isn't it just the GA Wrapper assets but with a bunch of mods inside?
-That already exists, and what about Wrapper: Offline? (or any other LVM with access to the server/store folder) It would also be limited, as you can't download any video list themes and you're only restricted to what's there.
-
-## But why not just fork it?
-didn't think of that who cares
+That already exists, and what about Wrapper: Offline? (or any other LVM with access to the server/store folder) It would also be limited, as you can't download any Wrapper mods and you're only restricted to what's there.
