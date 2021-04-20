@@ -1,14 +1,8 @@
-# What is Wrapper Shop Experimental?
-Wrapper Shop Experimental is for testing new Wrapper Shop features. Each version of Wrapper Shop Experimental may include changes that will or won't make it to the normal Wrapper Shop. This is also where new mods pop up before all the changes transfer to Wrapper Shop.
+# Original Wrappershop
+The original version of Wrappershop, before it was replaced with the new PHP version.
 
-## Can I make my own version of it?
-Yes! It's easy!
+## Why was it replaced? It worked fine.
+It was replaced because there was a lack of uploading, accounts, and rating.
 
-# Why does Wrapper Shop exist?
-It's designed to be an easy method of getting Wrapper or Wrapper mods.
-
-## Gamebanana?
-sounds like porn games
-
-## Why isn't it just the GA Wrapper assets but with a bunch of mods inside?
-That already exists, and what about Wrapper: Offline? (or any other LVM with access to the server/store folder) It would also be limited, as you can't download any Wrapper mods and you're only restricted to what's there.
+## Can I still use it?
+It's not recommended to use this version. What you should be using is the Legacy section of [the new Wrappershop](https://wrappershop.ga).
